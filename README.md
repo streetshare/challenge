@@ -8,3 +8,5 @@ El proyecto se desarrolló sobre PHP, html y jQuery, bajo el framework MVC Codei
 	* application/models/persistence.php -> El modelo Persistence se encarga de mantener la informacion 	durante el tiempo necesario, ya que se almacena en sesion.
 
 Dentro de los documentos adjuntos en el presente repositorio se encuentran el codigo original que se debe refactorizar y el refactorizado, y finalmente las respuestas al cuestionario enviado.
+
+Si el sistema presenta problemas al momento de ejecutarlo, basta con implementar el .htacess que se encuentra en el zip del proyecto
